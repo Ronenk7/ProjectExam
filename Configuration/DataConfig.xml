@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!-- TimeOut -->
+    <TimeOut>5</TimeOut>
+
+    <!-- Web -->
+    <BrowserName>chrome</BrowserName>
+    <url>https://www.w3schools.com/html/html_tables.asp</url>
+    <ImageRepo>C:\\Automation\\ProjectExam\\ImageRepository\\</ImageRepo>
+
+    <!-- Data Driven Testing -->
+    <DDTFile>./DDTFiles/mortgage.csv</DDTFile>
+
+    <!-- Mobile -->
+    <UDID>988a1c304647414735</UDID>
+    <AppPackage>com.zim</AppPackage>
+    <AppActivity>.MainActivity</AppActivity>
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+    <FirsName>Ronen</FirsName>
+
+</Environment>

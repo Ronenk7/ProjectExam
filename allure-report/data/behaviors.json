@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test 01 - Contact Us",
+    "uid" : "3b65b26e19d9abe8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638191122886,
+      "stop" : 1638191162278,
+      "duration" : 39392
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "mobile" ]
+  } ]
+}

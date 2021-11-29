@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mobile Suite" duration-ms="54308" started-at="2021-11-29T15:05:11 IST" finished-at="2021-11-29T15:06:05 IST">
+    <groups>
+    </groups>
+    <test name="Mobile Tests" duration-ms="54308" started-at="2021-11-29T15:05:11 IST" finished-at="2021-11-29T15:06:05 IST">
+      <class name="sanity.ZimShippingMobile">
+        <test-method status="PASS" signature="startSession(java.lang.String)[pri:0, instance:sanity.ZimShippingMobile@6bff19ff]" name="startSession" is-config="true" duration-ms="10656" started-at="2021-11-29T15:05:11 IST" finished-at="2021-11-29T15:05:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSession -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.ZimShippingMobile@6bff19ff]" name="beforeMethod" is-config="true" duration-ms="292" started-at="2021-11-29T15:05:22 IST" finished-at="2021-11-29T15:05:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.ZimShippingMobile.test01_contactUs()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test01_contactUs()[pri:0, instance:sanity.ZimShippingMobile@6bff19ff]" name="test01_contactUs" duration-ms="39354" started-at="2021-11-29T15:05:22 IST" description="Test 01 - Contact Us" finished-at="2021-11-29T15:06:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_contactUs -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:sanity.ZimShippingMobile@6bff19ff]" name="closeSession" is-config="true" duration-ms="3629" started-at="2021-11-29T15:06:02 IST" finished-at="2021-11-29T15:06:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- sanity.ZimShippingMobile -->
+    </test> <!-- Mobile Tests -->
+  </suite> <!-- Mobile Suite -->
+</testng-results>

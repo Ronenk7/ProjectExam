@@ -1,0 +1,76 @@
+{
+  "e5b08ed3182cab73da26ba5fdeb53c38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "3b65b26e19d9abe8",
+      "reportUrl" : "http://localhost:9090/job/Exam/19/allure/#testresult/3b65b26e19d9abe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638191122886,
+        "stop" : 1638191162278,
+        "duration" : 39392
+      }
+    }, {
+      "uid" : "853398d3a5c0b9c5",
+      "reportUrl" : "http://localhost:9090/job/Exam/18/allure/#testresult/853398d3a5c0b9c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638191023020,
+        "stop" : 1638191069556,
+        "duration" : 46536
+      }
+    }, {
+      "uid" : "2a192ec456f0a911",
+      "reportUrl" : "http://localhost:9090/job/Exam/9/allure/#testresult/2a192ec456f0a911",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638182035366,
+        "stop" : 1638182086091,
+        "duration" : 50725
+      }
+    }, {
+      "uid" : "ba77b724f80c83ba",
+      "reportUrl" : "http://localhost:9090/job/Exam/8/allure/#testresult/ba77b724f80c83ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638181769219,
+        "stop" : 1638181820079,
+        "duration" : 50860
+      }
+    }, {
+      "uid" : "bceaab3242c6a739",
+      "reportUrl" : "http://localhost:9090/job/Exam/7/allure/#testresult/bceaab3242c6a739",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638178947338,
+        "stop" : 1638178978812,
+        "duration" : 31474
+      }
+    }, {
+      "uid" : "2c559836594c6123",
+      "reportUrl" : "http://localhost:9090/job/Exam/6/allure/#testresult/2c559836594c6123",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638178873123,
+        "stop" : 1638178904270,
+        "duration" : 31147
+      }
+    }, {
+      "uid" : "b4772d89d277f965",
+      "reportUrl" : "http://localhost:9090/job/Exam/3/allure/#testresult/b4772d89d277f965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638177953866,
+        "stop" : 1638177985851,
+        "duration" : 31985
+      }
+    } ]
+  }
+}

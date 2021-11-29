@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 29 15:05:22 IST 2021","Mon Nov 29 15:06:02 IST 2021","39392","Mobile Suite","Mobile Tests","sanity.ZIMShippingMobile","sanity.ZIMShippingMobile","test01_contactUs","Test 01 - Contact Us","This test fill in a contact us form"

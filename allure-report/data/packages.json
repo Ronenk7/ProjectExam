@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "sanity.ZimShippingMobile",
+    "children" : [ {
+      "name" : "test01_contactUs",
+      "uid" : "3b65b26e19d9abe8",
+      "parentUid" : "42fb39108baefb8295b623aede3c9058",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638191122886,
+        "stop" : 1638191162278,
+        "duration" : 39392
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "mobile" ]
+    } ],
+    "uid" : "sanity.ZimShippingMobile"
+  } ]
+}

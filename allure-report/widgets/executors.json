@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:9090/",
+  "buildOrder" : 19,
+  "buildName" : "ZIM Shipping Mobile App #19",
+  "buildUrl" : "http://localhost:9090/job/Exam/19/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:9090/job/Exam/19/allure"
+} ]

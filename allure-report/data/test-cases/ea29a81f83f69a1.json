@@ -1,0 +1,232 @@
+{
+  "uid" : "ea29a81f83f69a1",
+  "name" : "Test 01 - Contact Us",
+  "fullName" : "sanity.ZimShippingMobile.test01_contactUs",
+  "historyId" : "e5b08ed3182cab73da26ba5fdeb53c38",
+  "time" : {
+    "start" : 1638191023020,
+    "stop" : 1638191069556,
+    "duration" : 46536
+  },
+  "description" : "This test fill in a contact us form",
+  "descriptionHtml" : "<p>This test fill in a contact us form</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1638191011905,
+      "stop" : 1638191022600,
+      "duration" : 10695
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1638191022621,
+      "stop" : 1638191022833,
+      "duration" : 212
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "This test fill in a contact us form",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Business Flow: Fill Form and Calculate Mortgage",
+      "time" : {
+        "start" : 1638191023083,
+        "stop" : 1638191069481,
+        "duration" : 46398
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "click on MobileElement",
+        "time" : {
+          "start" : 1638191048699,
+          "stop" : 1638191051325,
+          "duration" : 2626
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (473abf3c-07cf-4301-9889-ca3673689cd6)] -> id: tab-button-more]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "click on MobileElement",
+        "time" : {
+          "start" : 1638191053064,
+          "stop" : 1638191055990,
+          "duration" : 2926
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (473abf3c-07cf-4301-9889-ca3673689cd6)] -> id: more-contact-us-btn]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "click on MobileElement",
+        "time" : {
+          "start" : 1638191058646,
+          "stop" : 1638191060943,
+          "duration" : 2297
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (473abf3c-07cf-4301-9889-ca3673689cd6)] -> id: 689aa33e-6ad9-4cec-fedd-5b2030b09ab4]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "click on MobileElement",
+        "time" : {
+          "start" : 1638191062221,
+          "stop" : 1638191064506,
+          "duration" : 2285
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (473abf3c-07cf-4301-9889-ca3673689cd6)] -> xpath: //*[@text='Customer Service']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Update Text MobileElement",
+        "time" : {
+          "start" : 1638191067767,
+          "stop" : 1638191069481,
+          "duration" : 1714
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (473abf3c-07cf-4301-9889-ca3673689cd6)] -> id: e51b7c14-7db2-4c6b-9f45-9b85daf1ee6a]"
+        }, {
+          "name" : "text",
+          "value" : "Ronen"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 5
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1638191069572,
+      "stop" : 1638191073379,
+      "duration" : 3807
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "sanity.ZimShippingMobile"
+  }, {
+    "name" : "testClass",
+    "value" : "sanity.ZimShippingMobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "test01_contactUs"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Mobile Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Mobile Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "sanity.ZimShippingMobile"
+  }, {
+    "name" : "host",
+    "value" : "Ronen-pc"
+  }, {
+    "name" : "thread",
+    "value" : "4900@Ronen-pc.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "mobile"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea29a81f83f69a1.json",
+  "parameterValues" : [ "mobile" ]
+}
